@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгения Герцовская](https://up.htmlacademy.ru/javascript/18/user/20075).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
